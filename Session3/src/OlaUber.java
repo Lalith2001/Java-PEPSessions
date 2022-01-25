@@ -110,9 +110,6 @@ public class OlaUber {
 			System.out.println("Dear Customer "+U_Name+" Hope we will See You Soon Riding in our TAXI .");
 			System.out.println("=====Thank You For Using TAXI BOOKING=====");
 		}
-		
-		
-
-	  }
+	}
 
 }
